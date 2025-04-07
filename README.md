@@ -42,6 +42,10 @@ This project is a Shipment Management Form developed as part of a mini project d
 The app communicates with the **Login2Explore JPDB API** using token-based requests (`PUT`, `GET`, and `UPDATE` operations).
 
 ---
+## Outputs:-
+[![image](https://github.com/user-attachments/assets/fba5776f-879a-4247-9cc2-d1fb61d9f299)
+[![image](https://github.com/user-attachments/assets/818ff75f-67eb-42ce-b86c-416442ca6db1)
+
 
 ## 🧪 Sample Credentials (For Demo)
 
